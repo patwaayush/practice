@@ -1,21 +1,21 @@
 body {
-  background-color: #a8e6cf;
+  background-color: skyblue;
 }
 h1
 {
-  color: #900c3f;
+  color: green;
 }
 h2
 {
-  color: #900c3f;
+  color: green;
 }
 h3
 {
-  color: #900c3f;
+  color: green;
 }
 hr {
   border-style: dotted none none;
-  border-color: #fab7b7;
+  border-color: pink;
   border-width: 5px;
   width: 5%;
 }
